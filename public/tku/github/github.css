@@ -1,0 +1,17 @@
+table {
+    border: 2px solid black;
+    margin: auto;
+    margin-bottom: 20px;
+    max-width: 450px;
+    width: 80%;
+    
+  }
+
+  td {
+    border: 1px solid black;
+    width: auto;
+  }
+  body{
+      background-color: cyan;
+  }
+  
